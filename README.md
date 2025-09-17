@@ -1,16 +1,22 @@
 ## Nice to meet you 👋
 
-<!--
-**hyacinth1126/hyacinth1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you will find my projects, ideas, and work related to [specific topic or interest].
 
-Here are some ideas to get you started:
+## About This Repository
+This repository contains various projects that showcase my skills and experiments in **Robot Software Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What's Inside:
+- **Project 1:** Description of your first project.
+- **Project 2:** Brief explanation of your second project.
+- **Project 3:** Description of your third project.
+
+## 🛠️ Tools & Technologies
+- **Programming Languages:** Python, JavaScript, React, TypeScript, Next.js 
+- **Frameworks:** ROS, TensorFlow
+- **Tools:** Git, Docker
+
+## 📫 Contact Me
+- GitHub: [@hyacinth1126](https://github.com/hyacinth1126)
+- Email: hyacinth021097@gmail.com
+
+Feel free to reach out if you have any questions or would like to collaborate!
