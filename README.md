@@ -9,7 +9,7 @@ Here you will find my projects, ideas, and work.
 ### What's Inside:
 - **Project 1:** Python for particle tracking
 - **Project 2:** Python for analysis of the traced particle
-- **Project 3:** Next.js for CV portfolio site
+- **Project 3:** [Next.js for CV portfolio site](https://kimhyewon.vercel.app/)
 
 ## 🚀Programming Languages
 <div style="display: flex; gap: 10px;">
