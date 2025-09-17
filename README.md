@@ -11,7 +11,7 @@ Here you will find my projects, ideas, and work.
 - **Project 2:** Python for analysis of the traced particle
 - **Project 3:** [Next.js for CV portfolio site](https://kimhyewon.vercel.app/)
 
-## 🚀Programming Languages
+## 💻Programming Languages
 <div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript" />
