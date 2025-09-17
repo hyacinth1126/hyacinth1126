@@ -1,4 +1,4 @@
-## Nice to meet you 👋
+## Hello world 👋
 
 Here you will find my projects, ideas, and work related to particle tracking.
 
