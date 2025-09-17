@@ -17,12 +17,14 @@ Here you will find my projects, ideas, and work.
 <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JavaScript" />
 </div>
 
-## 🛠️ Tools
+## 🛠️ Skills
 <div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
 </div>
 
 ## 📫 Contact Me
