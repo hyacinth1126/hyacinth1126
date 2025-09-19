@@ -25,10 +25,13 @@ Here you will find my projects, ideas, and work.
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />  
+<img src="https://img.shields.io/badge/vercel_deploy-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Deploy" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </div>
 
 ## 📫 Contact Me
 - Linkedin: [@Hye-Won Kim](https://www.linkedin.com/in/hye-won-kim-a441561ba/)
 - Instagram: [@h._.uuon](https://www.instagram.com/h._.uuon/)
+- Homepage: [Hye-Won Kim](https://kimhyewon.vercel.app/#contact)
 
 Feel free to reach out if you have any questions or would like to collaborate!
